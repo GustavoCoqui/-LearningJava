@@ -17,7 +17,7 @@ public class Program {
 		
 		String myHexNumber = Integer.toHexString(myBinaryNumber);
 		
-		System.out.println("Hexadecimal value: "+ myHexNumber.toUpperCase());
+		System.out.println("Hexadecimal value is: "+ myHexNumber.toUpperCase());
 		
 		
 		sc.close();
