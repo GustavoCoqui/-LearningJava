@@ -18,7 +18,7 @@ public class Program {
 		
 		String myBinaryNumber = Integer.toBinaryString(myOctalNumber);
 		
-		System.out.println("Equivalent binary number: "+ myBinaryNumber);
+		System.out.println("Equivalent binary number ->: "+ myBinaryNumber);
 		
 		
 		sc.close();
