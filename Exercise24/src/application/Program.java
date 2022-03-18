@@ -14,9 +14,9 @@ public class Program {
 		System.out.println("Input a binary number:");
 		String myDecimalNumber = sc.nextLine();
 		
-		int myBynariNumber = Integer.parseInt(myDecimalNumber,2);
+		int myBinaryNumber = Integer.parseInt(myDecimalNumber,2);
 		
-		String myOctalNumber = Integer.toOctalString(myBynariNumber);
+		String myOctalNumber = Integer.toOctalString(myBinaryNumber);
 		
 		System.out.println("The octal number is: "+ myOctalNumber);
 		
