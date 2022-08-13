@@ -9,6 +9,7 @@ public class Program {
 		
 		
 		Locale.setDefault(Locale.US);
+		
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.println("Input a binary number:");
@@ -18,7 +19,7 @@ public class Program {
 		
 		String myOctalNumber = Integer.toOctalString(myBinaryNumber);
 		
-		System.out.println("The octal number is: "+ myOctalNumber);
+		System.out.println("The octal number is: "+ myOctalNumber); // valor em Octal
 		
 		sc.close();
 
