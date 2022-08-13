@@ -19,7 +19,7 @@ public class Program {
 		
 		String myOctalNumber = Integer.toOctalString(myBinaryNumber);
 		
-		System.out.println("The octal number is: "+ myOctalNumber); // valor em Octal
+		System.out.println("The octal number is: "+ myOctalNumber); // valor em Octal correto
 		
 		sc.close();
 
