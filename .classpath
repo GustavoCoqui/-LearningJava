@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="ExercicioSobreMatriz/src"/>
+	<classpathentry kind="src" path="ExercicioTeste/src"/>
+	<classpathentry kind="src" path="Exercise11C/src"/>
+	<classpathentry kind="src" path="Exercise23/src"/>
+	<classpathentry kind="src" path="Exercise24/src"/>
+	<classpathentry kind="src" path="Exercise25/src"/>
+	<classpathentry kind="src" path="Exercise26/src"/>
+	<classpathentry kind="output" path="ExercicioTeste/bin"/>
+</classpath>

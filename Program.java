@@ -19,7 +19,7 @@ public class Program {
 		
 	    convert.setMyDecimalValue(myDecimalValue);
 	    
-	    System.out.println("Binary number is:"+ convert.convert());
+	    System.out.println("Binary number is:"+ convert.convert()); // converte para binário
 	    
 		sc.close();
 
